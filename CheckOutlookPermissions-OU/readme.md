@@ -1,4 +1,4 @@
-#CheckOutlookPermissions-OU
+# CheckOutlookPermissions-OU
 
 ## Purpose
 This script is created to combat a known security threat where attackers modify the Default user's permissions on the Root and Inbox folders in Outlook. This unauthorized change allows attackers to access emails of any user within the tenant using any account. 
