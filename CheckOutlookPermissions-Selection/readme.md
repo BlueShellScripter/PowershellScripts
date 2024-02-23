@@ -1,4 +1,4 @@
-# BlueShellScripter Jan 2024
+# CheckOutlookPermissions-Selection
 
 ## Purpose
 This script is designed to enhance security within Outlook by addressing a common attack vector. Attackers often attempt to modify the Default user's permissions on the Root and Inbox folders. Such modifications can allow attackers to access a person's email using any account within the tenant. To counter this, the script performs the following actions:
